@@ -3,7 +3,7 @@
   Hi there 👋
   <img src="https://komarev.com/ghpvc/?username=Archana-Ragu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Archana-Ragu" />
 <br>
-Created Date: 17 Jan 202
+Created Date: 06 Jun 2023
 <br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
